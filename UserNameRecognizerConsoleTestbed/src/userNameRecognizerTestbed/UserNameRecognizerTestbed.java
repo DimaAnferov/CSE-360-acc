@@ -16,6 +16,9 @@ import java.util.Scanner;
  * 
  */
 
+
+/* I ADDDED MORE COMMENTS*/
+
 public class UserNameRecognizerTestbed{
 	
 	static String inputLine;
@@ -27,7 +30,7 @@ public class UserNameRecognizerTestbed{
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("Welcome to the UserName Recognizer Testbed\n");
+		System.out.println("Welcome to the Second Test of the UserName Recognizer Testbed\n");
         System.out.println("Please enter a UserName or an empty line to stop.");
 
 		// Associate the system keyboard with a Scanner object
